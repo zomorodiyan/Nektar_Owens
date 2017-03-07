@@ -1,0 +1,4 @@
+#!/bin/bash
+#to run the viscoelastic xml
+
+~/Desktop/nektar++-3.3.0/build/solvers/HomogeneousBloodFlowSolver/HomogeneousBloodFlowSover-3.2.0 Test_ChanFlow_homo_Viscoelastic.xml 
